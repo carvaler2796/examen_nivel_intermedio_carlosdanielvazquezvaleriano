@@ -40,7 +40,7 @@ print(resultado)
 #
 
 #Tuve que instalar faker ya que no la tenía instalada, a diferencia de pandas, que si.
-!pip install faker
+#pip install faker
 
 #Instalación de las librerías requeridas para el ejercicio, en este caso la nueva librería que es Faker para generar datos falsos o aleatorios
 #importamos random para generar valores numéricos aleatorios específicos
@@ -108,7 +108,7 @@ print(target)
 #
 
 #Primero instalo scikit-learn que en este caso será para realizar el entrenamiento del modelo
-!pip install scikit-learn
+#pip install scikit-learn
 
 #Llamamos o declaramos la libería nueva de sklearn para la regresión lineal múltiple y las otras librerías del problema 2 para
 #tomar esos datos como los datos simulados
